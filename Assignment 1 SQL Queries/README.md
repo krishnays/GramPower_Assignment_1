@@ -42,6 +42,22 @@ I have download and install Microsoft SQL Server 2019 database and SQL Server Ma
 
 Then written and executed all 7 queries successfully .
 
+created two tables 
+
+user table have following fields
+a. id
+b. name
+c. email
+d. phone
+employee table have following fields
+a. userid
+b. employee_number
+c. employee_phone
+d. employee_salary
+
+and performed the queries .
+
+
 
 
 
