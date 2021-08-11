@@ -55,14 +55,14 @@ for Assignment 2: as Assignment 2 Python knowledge/Python_with_SQL.ipynb in Gith
 I have Used Jupyter Notebooks to create and run the python script .
 
 used pyodbc open source Python module
-pyodbc is an open source Python module that makes accessing ODBC databases simple. 
-It implements the DB API 2.0 specification but is packed with even more Pythonic convenience.
+Connect Python to SQL Server using pyodbc .
 
 
 for Assignment 2.2: as Assignment 2.2 Python_and_s3/Python_and_s3 script.ipynb
 in Github
 I have Used Jupyter Notebooks to create and run the python script .
-Connect Python to SQL Server using pyodbc .
+Used Boto3 to connect Python and AWS S3.
+
 
 for Assignment 3
 1. I have Setup github.
