@@ -33,7 +33,10 @@ Q6: Get employees which have the highest employee_salary.
 
 Q7: Delete one row query.
 
-for Assignment 1: as Assignment 1 SQL Queries/SQL exp1.sql in Github I have Used of Microsoft SQL Server for running these queries .
+for 
+Assignment 1: as Assignment 1 SQL Queries/SQL exp1.sql in Github 
+
+I have Used of Microsoft SQL Server for running these queries .
 
 I have download and install Microsoft SQL Server 2019 database and SQL Server Management Studio .
 
