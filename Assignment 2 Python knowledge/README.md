@@ -1,3 +1,5 @@
+Assignment 2 Python knowledge
+
 Python script which connects with my sql database
 
 and print all users data.
