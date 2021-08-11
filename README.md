@@ -1,4 +1,4 @@
-# project-1
+#GramPower_Assignment_1
 contains assignment 
 for
 
